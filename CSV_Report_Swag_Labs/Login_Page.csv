@@ -1,0 +1,7 @@
+bug_id,"bug_severity","priority","op_sys","assigned_to","bug_status","resolution","short_desc"
+5,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","Incorrect error message is displayed"
+6,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After logging in, the back button does not work to go back"
+7,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After keeping the website open for some time, it logs out automatically & shows the "" Epic Sadface""login error"
+8,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After refreshing the login details are cleared, but the error remains the same"
+9,"normal","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","Only the username appears, password error does not appear"
+10,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After logging in, the images are not visible in the profile, & they are not being downloaded properly"
