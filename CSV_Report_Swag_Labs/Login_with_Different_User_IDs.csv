@@ -1,0 +1,6 @@
+bug_id,"bug_severity","priority","op_sys","assigned_to","bug_status","resolution","short_desc"
+57,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","""Problem_User successfully logged in but some  Product Page functionality has problems """
+58,"trivial","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","User successfully logs in but Product Page takes a long time to load"
+59,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","Error_User successfully logged in but errors are observed in Product Page functinality"
+60,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","Visual_User successfully logged in but visual / UI issues are observed on the Product Page"
+61,"blocker","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","""When I went to Name A to Z and clicked on its last option, it showed an error: """"Sorting is  broken! This error has been reported to  backtrace!"""""""
