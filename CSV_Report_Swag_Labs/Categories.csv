@@ -1,0 +1,8 @@
+bug_id,"bug_severity","priority","op_sys","assigned_to","bug_status","resolution","short_desc"
+32,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","""Category option is not available on the  inventory page """
+33,"blocker","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","""Products cannot be filtered by category the  inventory page """
+34,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","""Category -wise products filtering is  not available """
+35,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","""Category filter is not available, so category  selection cannot be retained after refresh """
+36,"normal","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","""No category functionality is available on the  Inventory Page to handle an invalid category """
+37,"enhancement","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After opening the Inventory page, when I click on""Price (low to high)"", it takes some time for the products to be displayed according to their selected price order"
+38,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After opening the Inventory page, when I click on""Price(High to Low)"", it takes some time for the products to be displayed according to their selected price order"
