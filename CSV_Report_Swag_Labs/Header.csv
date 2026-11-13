@@ -1,0 +1,4 @@
+bug_id,"bug_severity","priority","op_sys","assigned_to","bug_status","resolution","short_desc"
+21,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After Logging is on the home page, when I click on the cart or anywher else, the entire alignment gets disturbed"
+22,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After opening the Home Page, the alignment should not be disturbed even if I click anywhere on the page But after opening the home page, the cart alignment is already disturbed"
+23,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","But after opening the home page, the cart alignment is already disturbed"
