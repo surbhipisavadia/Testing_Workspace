@@ -1,0 +1,2 @@
+bug_id,"bug_severity","priority","op_sys","assigned_to","bug_status","resolution","short_desc"
+62,"trivial","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","Reset App State' does not work properly with any of the User IDs. The added Product remains in the Cart even after clicking on 'Reset App State'."
