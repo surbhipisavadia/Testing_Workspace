@@ -1,0 +1,5 @@
+bug_id,"bug_severity","priority","op_sys","assigned_to","bug_status","resolution","short_desc"
+28,"enhancement","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After entering the 'view past request' on the privacy policy page and submitting the mail, ther is no response, & nothing happens afterward"
+29,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After clicking the 'complaince#saucelabs.com' link, the option appears, but the link does not open in google chrome, Instead, an Adobe Extension Update page opens"
+30,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","""After clicking the link and selecting  Microsoft  Edge, Microsoft Edge opens, but the 'compaliance@saucelabs.com' link does not appear"""
+31,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After clicking on 'Sauce Ai for Authorizing Penetration Test 2026 Pdf', the link does not open in a new tab instead, the same page from which the link was copied remains open & the PDF link does not open"
