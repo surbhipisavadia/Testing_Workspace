@@ -1,7 +1,0 @@
-bug_id,"bug_severity","priority","op_sys","assigned_to","bug_status","resolution","short_desc"
-11,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After clicking on About Us, the page opens, but it shows a 404 - Page not Found error"
-12,"minor","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After opening the About Us page, it does not close when pressing the Esc Key , & when I click the back button, instead of going back, I logged out directly"
-13,"normal","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After entering the details in ""start a free demo"", the ""Start Test"" video is not playing"
-14,"normal","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After logging in with google account, Grid View & Table View option next to A to Z does not respond when clicked"
-15,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After opening the About Us page, the navigation bar & the Background have the same color, so they are not clearly visible"
-16,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After Editing the filters in Add Filters, no videos matched the selected criteria & a 'No Matching Result' message was displayed"
