@@ -1,0 +1,4 @@
+bug_id,"bug_severity","priority","op_sys","assigned_to","bug_status","resolution","short_desc"
+44,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","""After clicking the Twitter and LinkedIn icons,  both links opened successfully. However, the Facebook link showed a password error, remained in Gujarati, and continued showing the password error even after entering the password 2–3 times."""
+45,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After clicking on the inquiries@saucelabs.com link, a dialog box appears, when I click on MIcrosoft Edge, the link does not open directly. I have to copy the link from the Contact Us page and paste it into Microsoft Edge manually"
+46,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After clicking on the sales@saucelabs.com link, a dialog box opens, when I click  on Outlook, the outlook page appears completely blank & so content is displayed"
