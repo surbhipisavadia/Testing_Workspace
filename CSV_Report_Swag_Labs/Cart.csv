@@ -1,0 +1,5 @@
+bug_id,"bug_severity","priority","op_sys","assigned_to","bug_status","resolution","short_desc"
+17,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","Different Prices are displayed on the Add to Cart and Product Details Page"
+18,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After adding multiple products to the cart, the total count is not displayed during checkout"
+19,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After purchasing the product, the checkout details are not being added correctly & the last name is not being entered"
+20,"trivial","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After entering the address details in checkout & clicking continue, User get logged out."
