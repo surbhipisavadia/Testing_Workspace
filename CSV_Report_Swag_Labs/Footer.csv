@@ -1,0 +1,6 @@
+bug_id,"bug_severity","priority","op_sys","assigned_to","bug_status","resolution","short_desc"
+39,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","Social media Icon shoulds can be accessd using keyboard but focus indication is not clearly"
+40,"trivial","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","""Focus indication on Footer Icons is not  clearly visible """
+41,"normal","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","Footer content becomes difficult to view properly in small screen size"
+42,"normal","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","Social Media Logos so not show a clearly visible hover effect"
+43,"trivial","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","Footer content alignment is not proper in small screen view"
