@@ -1,0 +1,5 @@
+bug_id,"bug_severity","priority","op_sys","assigned_to","bug_status","resolution","short_desc"
+24,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After opening the website, when the mouse pointer moves over the slider, the slides stop, but the slider swipe functionality does not work"
+25,"normal","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After clicking the 'Start a Free' Button  the page takes too much load"
+26,"major","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After clicking start a free , I used the back button to return, but it did not go back immediately, the back button responsed only after clicking it 2-3 times"
+27,"critical","---","Windows","surbhi_4113@gmail.com","ASSIGNED","---","After clicking 'visit the trust center' the page takes too long to load & open"
